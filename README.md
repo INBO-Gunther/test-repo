@@ -1,2 +1,2 @@
-# test-repo
-analysis to test repo and learn
+# Course-workshop-github
+Analysis to test repo and learn during a workshop
